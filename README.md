@@ -101,7 +101,7 @@ After applying this command, the runtime initialization completed successfully.
 
 These steps were performed successfully and the login was verified.
 
-![Screen](images/img.png)
+![Screen](Images/img.png)
 
 ***
 
@@ -269,8 +269,8 @@ To verify that the database and user were created correctly:
    ```
 
 This confirms that the `moqui` user exists and has full access to the `moqui` database.
-![Output](images/img_1.png)
-![Output](images/img_2.png)
+![Output](Images/img_1.png)
+![Output](Images/img_2.png)
 ***
 
 ## 4. Update Moqui Configuration
